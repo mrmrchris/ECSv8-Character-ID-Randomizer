@@ -9,5 +9,6 @@ let registeredID = [
 	75,                                                     // Just Chris' reserved Extra Slot Extra Life ID
 	69,							// Wheel Chair
         22, 23, 24,						// Telejaba's Extra slot Project 2 (Metal, Bunfriend/Encore Bf, Chaos The Impostorඞ)
-	131, 							// Extra Slot Sonictuber (By SammyGoesHowdy)
+	131,                                                    // Extra Slot Sonictuber (By SammyGoesHowdy)
+        20,                                                     // mrmrchris's Plok (in WIP stage)
 ];
